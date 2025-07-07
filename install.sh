@@ -23,7 +23,7 @@ sudo apt install ffmpeg git -y
 
 echo "📥 Clone repository..."
 git clone https://github.com/willy-scr/streamflow-aman
-cd streamflow-main
+cd streamflow-aman   # ← ini dia yang udah diperbaiki
 
 echo "⚙️ Installing dependencies..."
 npm install
